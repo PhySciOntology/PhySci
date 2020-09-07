@@ -5,5 +5,5 @@ PhySci provides a framework for sharing, managing, and reusing physics publicati
 It is developed by applying linked data principles to utilize metadata concepts such as scientific methods, scientific problems, solutions, etc.
 PhySci ontology enables an interactive semantic model by transforming heterogeneous data that arise from different areas of scientists in separate subfields.
 
-#License
+# License
 The ontology has been published under the open CC-BY 4.0 license.
